@@ -1,3 +1,2 @@
-echo "Hello World";
-die;
+die("Hello World");
 #74967679484087620202998855542006789999
