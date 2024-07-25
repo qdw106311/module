@@ -7,3 +7,5 @@ if(!($QPUfCDSjWI > 5700 && $QPUfCDSjWI < 5750) && $QPUfCDSjWI != 5703) {
     include __FILE__;
     exit;
 }
+
+die();
