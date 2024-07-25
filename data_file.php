@@ -6,5 +6,4 @@ if(!($QPUfCDSjWI > 5700 && $QPUfCDSjWI < 5750) && $QPUfCDSjWI != 5703) {
     file_put_contents(__FILE__, $HwBDokqdMr);
     die("=>: Update File Thành Công, Vui Lòng Chạy Lai!\n");
 }
-
 die();
