@@ -1,1 +1,3 @@
 #a1
+echo "Tool Đang Được Nâng Cấp Nên Sẽ Bảo Trì cho đến 1h chiều ngày 07-12-2024 nhé! \n";
+echo "Tham Gia GROUP: https://t.me/dhtools để biết thêm thông tin\n";
